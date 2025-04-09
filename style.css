@@ -640,10 +640,7 @@ a.more {
 }
 
 /* End Trending Sunglasses Section */
-
-/*........................................... footer */
-
-/* Footer Section Styling */
+/* Footer */
 /* Footer Section Styling */
 .footer-section {
   padding: 50px 0;
@@ -720,7 +717,7 @@ a.more {
   text-align: center;
   opacity: 0.7;
 }
-/* ....................................................................... */
+/* Shop */
 /* Shop Section */
 
 
@@ -824,7 +821,7 @@ a.more {
 }
 
 
-/* ...................................................about us............................................ */
+/* about us*/
 /* Why Choose Us Section */
 .about-why-choose {
   padding: 60px 10%;
@@ -1008,8 +1005,6 @@ a.more {
     }
 }
 
-
-/* ..........................................Blog........................................ */
 
 /* Blog Page Specific Styles */
 
@@ -1203,7 +1198,7 @@ a.more {
   transform: scale(1.1);
 }
 
-/* ............contact................ */
+/* contact */
 
 /* Contact Section Styles */
 .contact-section {
